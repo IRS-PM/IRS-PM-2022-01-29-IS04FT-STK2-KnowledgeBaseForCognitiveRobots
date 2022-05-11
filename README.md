@@ -1,0 +1,1 @@
+# IRS-PM-2022-01-29-IS04FT-STK2-KnowledgeBaseForCognitiveRobots
