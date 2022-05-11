@@ -1,7 +1,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Cognitive robots to imitate human action using knowledge base system
 
-<img src="Miscellaneous/clips/static/robotarm.jpg"
+<img src="Miscellaneous/robotarm.jpg"
      style="float: left; margin-right: 0px;" />
 
 ---
